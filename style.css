@@ -1,0 +1,26 @@
+.line1{
+width:100%;
+font-size:30px;
+margin-top:0px;
+box-shadow:15px 15px 20px black
+}
+body{
+background-color: plum;
+}
+.objectname{
+color:red;
+font-size: 25px;
+font-weight: bold;
+}
+label{
+font-size: 25px;
+color:green;
+}
+#camera ,#result
+  {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+    padding:5px;
+    margin:auto;
+  }
